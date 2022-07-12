@@ -1,4 +1,4 @@
-package com.desire.spring.sfgpetclinic.model;
+package model;
 
 public class Person {
     private String firstName;
